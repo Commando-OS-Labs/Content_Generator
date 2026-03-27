@@ -1,0 +1,8 @@
+{
+  "name": "Commando360.ai Ad Generator",
+  "id": "commando360-ad-generator",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma"]
+}
